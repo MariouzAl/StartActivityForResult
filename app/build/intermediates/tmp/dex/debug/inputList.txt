@@ -1,0 +1,2 @@
+C:\Users\Mario\Documents\Proyectos\Curso Android\codes\StartActivityForResult1\app\build\intermediates\classes\debug
+C:\Users\Mario\Documents\Proyectos\Curso Android\codes\StartActivityForResult1\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-9cb99df6281f7ab9b753e747f0ec55569e99ca4b.jar
